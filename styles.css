@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+
+body {
+ background-color: hsl(30, 54%, 90%);
+ margin-top: 175px;
+ margin-bottom: 175px;
+ line-height: 30px;
+}
+
+.container {
+ max-width: 650px;
+ margin: auto;
+ border-radius: 30px;
+ background-color: hsl(0, 0%, 100%);
+ padding: 40px;
+ 
+}
+
+.container img {
+ width: 100%;
+ border-radius: 25px;
+}
+
+
+h1 {
+ font-family: "Young Serif", serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 36px;
+ color: hsl(24, 5%, 18%);
+}
+
+h2 {
+ font-family: "Young Serif", serif;
+ font-weight: 400;
+ font-style: normal;
+ color: hsl(14, 45%, 36%);
+}
+
+p {
+ font-family: "Outfit", sans-serif;
+ color: hsl(30, 10%, 34%);
+ font-size: 16px;
+}
+
+.prep {
+ font-family: "Outfit", sans-serif;
+ background-color: hsl(330, 100%, 98%);
+ border-radius: 15px;
+ padding: 10px;
+}
+
+.prep h4 {
+ color: hsl(332, 51%, 32%);
+ font-size: 18px;
+ margin-top: 10px;
+ padding-left: 15px;
+ padding-bottom: 0;
+}
+
+.prep ul {
+ margin-top: -20px;
+ font-size: 14px;
+ color: hsl(30, 10%, 34%);
+}
+
+.prep ul li {
+ padding-left: 12px;
+}
+
+.ingredients {
+ border-bottom: 2px solid hsl(30, 18%, 87%);
+ padding-bottom: 15px;
+}
+
+.ingredients ul {
+ font-family: "Outfit", sans-serif;
+ color: hsl(30, 10%, 34%);
+ list-style: square;
+ padding-left: 24px;
+}
+
+.ingredients ul li {
+ color: hsl(14, 45%, 36%);
+}
+
+.ingredients ul li span {
+ color: hsl(30, 10%, 34%);
+}
+
+.ingredients ul li {
+ padding-left: 12px;
+}
+
+.instructions {
+ border-bottom: 2px solid hsl(30, 18%, 87%);
+ padding-bottom: 15px;
+}
+
+.instructions ol {
+ font-family: "Outfit", sans-serif;
+ color: hsl(30, 10%, 34%);
+ padding-left: 24px;
+}
+
+.instructions ol li {
+ color: hsl(14, 45%, 36%);
+ font-weight: 600;
+}
+
+.instructions ol li span {
+ color: hsl(30, 10%, 34%);
+ font-weight: 400;
+}
+
+.instructions ol li {
+ padding-left: 12px;
+}
+
+.nutrition p {
+ color: hsl(30, 10%, 34%);
+}
+
+table {
+ border-collapse: collapse;
+ width: 100%;
+ font-family: "Outfit", sans-serif;
+ color: hsl(30, 10%, 34%);
+}
+
+.line {
+ border-bottom: 2px solid hsl(30, 18%, 87%);
+ 
+}
+
+td {
+ padding-bottom: 15px;
+ padding-top: 15px;
+}
+
+
+.first {
+ padding-left: 30px;
+ width: 40%;
+}
+
+.second {
+ color: hsl(14, 45%, 36%);
+ padding-left: 55px;
+}
+
+table, td:after {
+border-bottom: none;
+}
+
+.attribution {
+ text-align: center;
+}
