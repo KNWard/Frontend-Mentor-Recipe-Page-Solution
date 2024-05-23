@@ -16,8 +16,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - This challenge was very straightforward, using simple HTML and CSS to build. Though it was fairly simple, one area I found interesting was the unordered and ordered lists. I have never styled the bullet points and/or numbers for the lists. This did take some research on my part, but I was able to learn something new.
 
 ### Screenshot
-
-![](./screenshot.png)
+![Recipe Page Solution](assets/images/screenshot.png)
 
 ### Built with
 
